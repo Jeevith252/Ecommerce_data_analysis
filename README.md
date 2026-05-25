@@ -3,7 +3,7 @@
 Date - 24/06/2026 :
     Collected the messy data from Kaggle.com and Cleaned the entire csv file
   
-    cleaning process included:
+    Cleaning process included:
     
     1)Handling Missing Values
     
