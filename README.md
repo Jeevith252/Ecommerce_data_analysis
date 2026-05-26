@@ -13,5 +13,5 @@ Date - 24/06/2026 :
     
     4)Handling Datatypes
     
-    5)Handling Outliers
+    5)Handling Outliers.
   
